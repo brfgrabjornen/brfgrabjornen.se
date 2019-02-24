@@ -1,0 +1,30 @@
+{{ partial "head" . }}
+{{ partial "menu" . }}
+      <section class="wrapper style1">
+        <div class="container">
+          <div class="row double">
+            <div class="8u">
+              <div id="content">
+                <article>
+                  <h2>Kontakta oss</h2>
+                  <span class="image featured"><img src="/images/contact.jpg" alt="" /></span>
+
+                  {{ .Content }}
+                </article>
+              </div>
+            </div>
+            <div class="4u">
+              <div id="sidebar">
+                <section>
+                  <h3>Adress</h3>
+                  <p>Jörgen Ankersgatan 16</br>211 45 Malmö.</p>
+                  <footer>
+                    <a href="https://www.google.se/maps/place/J%C3%B6rgen+Ankersgatan+16,+211+45+Malm%C3%B6/@55.5973744,12.9989826,18z/data=!4m2!3m1!1s0x4653a1572a89c1a3:0xd6baaa2b9839c2d1" class="button">Hitta hit</a>
+                  </footer>
+                </section>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+{{ partial "foot" . }}
