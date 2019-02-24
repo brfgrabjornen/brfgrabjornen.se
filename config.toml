@@ -1,0 +1,35 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+[menu]
+  [[menu.main]]
+    identifier = "hem"
+    name = "Hem"
+    url = "/"
+    weight = -1
+  [[menu.main]]
+    identifier = "dokument"
+    name = "Dokument"
+    url = "#"
+    weight = 1
+  [[menu.main]]
+    identifier = "tvattstuga"
+    name = "Tvättstuga"
+    url = "/tvattstuga/"
+    weight = 1
+  [[menu.main]]
+    identifier = "soprum"
+    name = "Soprum"
+    url = "/soprum/"
+    weight = 2
+  [[menu.main]]
+    identifier = "pictures"
+    name = "Bilder"
+    url = "/bilder/"
+    weight = 3
+  [[menu.main]]
+    identifier = "kontakt"
+    name = "Kontakt"
+    url = "/kontakt/"
+    weight = 4
