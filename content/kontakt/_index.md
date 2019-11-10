@@ -5,10 +5,9 @@ title: Kontakt
 ### Styrelsen
 
 * **Ordförande** Peder Id
-* **Ledamot** Jessica Bjermer
-* **Ledamot** Oscar Ljunggren
-* **Suppleant** Charlotte Wrangel
-* **Suppleant** Sebastian Wallin
+* **Ledamot** Sebastian Wallin
+* **Ledamot** Charlotte Wrangel
+* **Suppleant** Ulrika Qvint
 
 Felanmälan: [felanmalan@brfgrabjornen.se](mailto:felanmalan@brfgrabjornen.se)<br>
 Allmänna frågor: [styrelsen@brfgrabjornen.se](mailto:styrelsen@brfgrabjornen.se)
